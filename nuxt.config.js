@@ -50,10 +50,6 @@ export default {
     },
 
 
-    alias: {
-        'apiBaseUrl': 'https://jsonplaceholder.typicode.com/',
-    },
-
     // Build Configuration: https://go.nuxtjs.dev/config-build
     build: {}
 }
